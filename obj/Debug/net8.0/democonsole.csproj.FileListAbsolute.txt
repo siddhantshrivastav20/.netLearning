@@ -1,0 +1,14 @@
+/Users/siddhantshrivastav/democonsole/bin/Debug/net8.0/democonsole
+/Users/siddhantshrivastav/democonsole/bin/Debug/net8.0/democonsole.deps.json
+/Users/siddhantshrivastav/democonsole/bin/Debug/net8.0/democonsole.runtimeconfig.json
+/Users/siddhantshrivastav/democonsole/bin/Debug/net8.0/democonsole.dll
+/Users/siddhantshrivastav/democonsole/bin/Debug/net8.0/democonsole.pdb
+/Users/siddhantshrivastav/democonsole/obj/Debug/net8.0/democonsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/siddhantshrivastav/democonsole/obj/Debug/net8.0/democonsole.AssemblyInfoInputs.cache
+/Users/siddhantshrivastav/democonsole/obj/Debug/net8.0/democonsole.AssemblyInfo.cs
+/Users/siddhantshrivastav/democonsole/obj/Debug/net8.0/democonsole.csproj.CoreCompileInputs.cache
+/Users/siddhantshrivastav/democonsole/obj/Debug/net8.0/democonsole.dll
+/Users/siddhantshrivastav/democonsole/obj/Debug/net8.0/refint/democonsole.dll
+/Users/siddhantshrivastav/democonsole/obj/Debug/net8.0/democonsole.pdb
+/Users/siddhantshrivastav/democonsole/obj/Debug/net8.0/democonsole.genruntimeconfig.cache
+/Users/siddhantshrivastav/democonsole/obj/Debug/net8.0/ref/democonsole.dll
